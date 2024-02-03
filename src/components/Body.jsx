@@ -9,7 +9,7 @@ function Body() {
         <button>Get Started</button>
       </div>
       <div className="right-section">
-        <img src="images/bg1.png" alt='background image' width={500}></img>
+        <img src="https://ibb.co/PQ1CDBS" alt='background image' width={500}></img>
       </div>
     </section>
   );
