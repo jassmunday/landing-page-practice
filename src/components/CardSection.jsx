@@ -18,17 +18,17 @@ function CardSection() {
       <Card
         title="Create Your Profile"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
-        imageUrl="images/p1.png"
+        imageUrl="https://github.com/jassmunday/landing-page-practice/assets/129063092/1384e86c-f023-4c16-ab7b-314d25975fb2"
       />
       <Card
         title="Get Academic results and certificates"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
-        imageUrl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgraduation_5956912&psig=AOvVaw1Ehnl6GUeBYfErrhahEMZm&ust=1707048381533000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCR9fSQj4QDFQAAAAAdAAAAABAE"
+        imageUrl="https://github.com/jassmunday/landing-page-practice/assets/129063092/22bf464b-cf6e-46ec-b29e-9b55779de614"
       />
       <Card
         title="Apply For Scholarships"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
-        imageUrl="images/s1.png"
+        imageUrl="https://github.com/jassmunday/landing-page-practice/assets/129063092/0ebea0c9-3438-40b2-b4fa-3610186d28a1"
       />
     </section>
   );
