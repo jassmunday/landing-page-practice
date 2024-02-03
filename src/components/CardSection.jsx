@@ -23,7 +23,7 @@ function CardSection() {
       <Card
         title="Get Academic results and certificates"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
-        imageUrl="images/a1.png"
+        imageUrl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgraduation_5956912&psig=AOvVaw1Ehnl6GUeBYfErrhahEMZm&ust=1707048381533000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCR9fSQj4QDFQAAAAAdAAAAABAE"
       />
       <Card
         title="Apply For Scholarships"
